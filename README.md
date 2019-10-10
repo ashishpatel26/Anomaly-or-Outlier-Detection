@@ -2,7 +2,7 @@
 
 ---
 
-![](C:\Users\prompt\Desktop\github\anomaly-detection-algorithms.jpg)``
+![](https://github.com/ashishpatel26/Anomaly-or-Outlier-Detection/blob/master/anomaly-detection-algorithms.jpg)``
 
 ---
 
